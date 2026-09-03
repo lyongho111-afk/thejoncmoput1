@@ -4,4 +4,4 @@
 * 첫번째 작업
 * 두번째 작업
 * 세번째 작업
-[네이버](https://naver.com)
+[네이버](https://www.naver.com)
